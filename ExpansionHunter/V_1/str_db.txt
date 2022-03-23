@@ -1,0 +1,65 @@
+Locus	Gene_OMIM	Disorder	Disorder_OMIM	Onset	Repeat	Inheritance	Normal	Pathogenic
+AFF2	https://omim.org/entry/300806	FRAXE mental retardation (FRAXE)	https://omim.org/entry/309548	Paediatric	CCG	X-linked recessive	6-25	200
+AR	https://omim.org/entry/313700	Spinal and bulbar muscular atrophy (SBMA)	https://omim.org/entry/313200	Adult	CAG	X-linked recessive	17-35	40
+ARX_1	https://omim.org/entry/300382	Developmental and epileptic encephalopathy-1 (DEE1)	https://omim.org/entry/308350	Paediatric	GCN	X-linked recessive	16	23
+ARX_1	https://omim.org/entry/300382	X-linked mental retardation with or without seizures (MRXARX)	https://omim.org/entry/300419	Paediatric	GCN	X-linked recessive	16	18
+ARX_2	https://omim.org/entry/300382	Developmental and epileptic encephalopathy-1 (DEE1)	https://omim.org/entry/308350	Paediatric	GCN	X-linked recessive	12	20
+ARX_2	https://omim.org/entry/300382	Partington syndrome (PRTS)	https://omim.org/entry/309510	Paediatric	GCN	X-linked recessive	12	20
+ARX_2	https://omim.org/entry/300382	X-linked mental retardation with or without seizures (MRXARX)	https://omim.org/entry/300419	Paediatric	GCN	X-linked recessive	12	23
+ATXN10	https://omim.org/entry/611150	Spinocerebellar ataxia 10 (SCA10)	https://omim.org/entry/603516	Adult	ATTCT	Autosomal dominant	10-29	800
+ATXN8OS	https://omim.org/entry/603680	Spinocerebellar ataxia 8 (SCA8)	https://omim.org/entry/608768	Adult	CTG	Autosomal dominant	2-37	80
+ATN1	https://omim.org/entry/607462	Dentatorubral-pallidoluysian atrophy (DRPLA)	https://omim.org/entry/125370	Paediatric/Adult	CAG	Autosomal dominant	7-23	49
+ATXN1	https://omim.org/entry/601556	Spinocerebellar ataxia 1 (SCA1)	https://omim.org/entry/164400	Adult	CAG	Autosomal dominant	6-32	39
+ATXN2	https://omim.org/entry/601517	Spinocerebellar ataxia 2 (SCA2)	https://omim.org/entry/183090	Paediatric/Adult	CAG	Autosomal dominant	13-31	35
+ATXN3	https://omim.org/entry/607047	Spinocerebellar ataxia 3 (SCA3)	https://omim.org/entry/109150	Paediatric/Adult	CAG	Autosomal dominant	12-44	56
+ATXN7	https://omim.org/entry/607640	Spinocerebellar ataxia 7 (SCA7)	https://omim.org/entry/164500	Adult	CAG	Autosomal dominant	4-35	36
+BEAN1	https://omim.org/entry/612051	Spinocerebellar ataxia 31 (SCA31)	https://omim.org/entry/117210	Adult	TGGAA	Autosomal dominant	0	500
+C9ORF72	https://omim.org/entry/614260	Amyotrophic lateral sclerosis and/or frontotemporal dementia (FTDALS1)	https://omim.org/entry/105550	Adult	GGGGCC	Autosomal dominant	1-23	31
+CACNA1A	https://omim.org/entry/601011	Spinocerebellar ataxia 6 (SCA6)	https://omim.org/entry/183086	Adult	CAG	Autosomal dominant	4-18	21
+CBL	https://omim.org/entry/165360	Jacobsen syndrome (JBS)	https://omim.org/entry/147791	Paediatric	CCG	Not inherited	8-80	101
+CNBP	https://omim.org/entry/116955	Myotonic dystrophy 2 (DM2)	https://omim.org/entry/602668	Adult	CCTG	Autosomal dominant	29	55
+COMP	https://omim.org/entry/600310	Multiple epiphyseal dysplasia (EDM1)	https://omim.org/entry/132400	Paediatric	GAC	Autosomal dominant	5	6
+COMP	https://omim.org/entry/600310	Pseudoachondroplasia (PSACH)	https://omim.org/entry/177170	Paediatric	GAC	Autosomal dominant	5	7
+DAB1	https://omim.org/entry/603448	Spinocerebellar ataxia 37 (SCA37)	https://omim.org/entry/615945	Adult	ATTTC	Autosomal dominant	0	31
+DIP2B	https://omim.org/entry/611379	Mental retardation, FRA12A type (MRFRA12A)	https://omim.org/entry/136630	Paediatric	CGG	Autosomal dominant	6-23	350
+DMD	https://omim.org/entry/300377	Duchenne muscular dystrophy (DMD)	https://omim.org/entry/310200	Paediatric/Adult	GAA	X-linked recessive	11-33	59
+DMPK	https://omim.org/entry/605377	Myotonic dystrophy 1 (DM1)	https://omim.org/entry/160900	Paediatric/Adult	CTG	Autosomal dominant	5-34	50
+FMR1	https://omim.org/entry/309550	Fragile X tremor/ataxia syndrome (FXTAS)	https://omim.org/entry/300623	Adult	CGG	X-linked dominant	6-40	55-200
+FMR1	https://omim.org/entry/309550	Fragile X Syndrome (FXS)	https://omim.org/entry/300624	Paediatric	CGG	X-linked dominant	6-40	201
+FOXL2	https://omim.org/entry/605597	Blepharophimosis, ptosis, and epicanthus inversus syndrome (BPES)	https://omim.org/entry/110100	Paediatric	GCN	Autosomal dominant	14	19
+FXN	https://omim.org/entry/606829	Friedreich ataxia (FRDA)	https://omim.org/entry/229300	Paediatric	GAA	Autosomal recessive	5-30	70
+GIPC1	https://omim.org/entry/605072	Oculopharyngodistal myopathy 2 (OPDM2)	https://omim.org/entry/618940	Adult	GGC	Autosomal dominant	12-32	73
+GLS	https://omim.org/entry/138280	Glutaminase deficiency with impaired intellectual development and progressive ataxia (GD)	https://omim.org/entry/618412	Paediatric	GCA	Autosomal recessive	5-26	680
+HOXA13	https://omim.org/entry/142959	Hand-foot-genital syndrome (HFG)	https://omim.org/entry/140000	Paediatric	GCN	Autosomal dominant	14	22
+HOXA13_2	https://omim.org/entry/142959	Hand-foot-genital syndrome (HFG)	https://omim.org/entry/140000	Paediatric	GCN	Autosomal dominant	12	18
+HOXA13_3	https://omim.org/entry/142959	Hand-foot-genital syndrome (HFG)	https://omim.org/entry/140000	Paediatric	GCN	Autosomal dominant	18	24
+HOXD13	https://omim.org/entry/142989	Synpolydactyly (SPD)	https://omim.org/entry/186300	Paediatric	GCN	Autosomal dominant	15	22
+HTT	https://omim.org/entry/613004	Huntington's disease (HD)	https://omim.org/entry/143100	Adult	CAG	Autosomal dominant	9-26	36
+JPH3	https://omim.org/entry/605268	Huntington disease-like 2 (HDL2)	https://omim.org/entry/606438	Adult	CTG	Autosomal dominant	6-27	41
+LRP12	https://omim.org/entry/618299	Oculopharyngodistal myopathy 1 (OPDM1)	https://omim.org/entry/164310	Adult	CGG	Autosomal dominant	13-45	93
+MARCHF6	https://omim.org/entry/613297	Familial adult myoclonic epilepsy 3 (FAME3)	https://omim.org/entry/613608	Adult	TTTCA	Autosomal dominant	0	668
+NIPA1	https://omim.org/entry/608145	Amyotrophic lateral sclerosis (ALS)	https://omim.org/entry/105400	Adult	GCG	Autosomal dominant	6-10	11
+NOTCH2NLC	https://omim.org/entry/618025	Neuronal intranuclear inclusion disease (NIID)	https://omim.org/entry/603472	Adult	GGC	Autosomal dominant	7-39	90
+NOTCH2NLC	https://omim.org/entry/618025	Hereditary essential tremor type 6 (ETM6)	https://omim.org/entry/618866	Adult	GGC	Autosomal dominant	4-41	60
+NOP56	https://omim.org/entry/614154	Spinocerebellar ataxia 36 (SCA36)	https://omim.org/entry/614153	Adult	GGCCTG	Autosomal dominant	3-14	25
+NUTM2B-AS1	https://omim.org/entry/618639	Oculopharyngeal myopathy with leukoencephalopathy 1 (OPML1)	https://omim.org/entry/618637	Adult	CGG	Autosomal dominant	3-16	700
+PABPN1	https://omim.org/entry/602279	Oculopharyngeal muscular dystrophy (OPMD)	https://omim.org/entry/164300	Adult	GCG	Autosomal dominant or Autosomal recessive	6	7
+PHOX2B	https://omim.org/entry/603851	Central hypoventilation syndrome (CCHS)	https://omim.org/entry/209880	Paediatric	GCN	Autosomal dominant	20	24
+PPP2R2B	https://omim.org/entry/604325	Spinocerebellar ataxia 12 (SCA12)	https://omim.org/entry/604326	Paediatric/Adult	CAG	Autosomal dominant	7-31	51
+PRDM12	https://omim.org/entry/616458	Hereditary sensory and autonomic neuropathy type VIII (HSAN8)	https://omim.org/entry/616488	Paediatric	GCC	Autosomal recessive	14	18
+RAPGEF2	https://omim.org/entry/609530	Familial adult myoclonic epilepsy 7 (FAME7)	https://omim.org/entry/618075	Adult	TTTCA	Autosomal dominant	0	60
+RFC1	https://omim.org/entry/102579	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome (CANVAS)	https://omim.org/entry/614575	Adult	AAGGG / ACAGG	Autosomal recessive	0	400
+RFC1	https://omim.org/entry/102579	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome (CANVAS)	https://omim.org/entry/614575	Adult	AAGGG / ACAGG	Autosomal recessive	0	400
+RUNX2	https://omim.org/entry/600211	Cleidocranial dysplasia (CCD)	https://omim.org/entry/119600	Paediatric	GCN	Autosomal dominant	17	27
+SAMD12	https://omim.org/entry/618073	Familial adult myoclonic epilepsy 1 (FAME1)	https://omim.org/entry/601068	Adult	TTTCA	Autosomal dominant	0	100
+SOX3	https://omim.org/entry/313430	X-linked mental retardation with isolated growth hormone (XLMR)	https://omim.org/entry/300123	Paediatric	GCN	X-linked recessive	15	26
+SOX3	https://omim.org/entry/313430	X-linked panhypopituitarism (PHPX)	https://omim.org/entry/312000	Paediatric	GCN	X-linked recessive	15	22
+STARD7	https://omim.org/entry/616712	Familial adult myoclonic epilepsy 2 (FAME2)	https://omim.org/entry/607876	Adult	ATTTC	Autosomal dominant	0	274
+TBP	https://omim.org/entry/600075	Spinocerebellar ataxia 17 (SCA17)	https://omim.org/entry/607136	Paediatric/Adult	CAG	Autosomal dominant	25-42	43
+TBX1	https://omim.org/entry/602054	Tetralogy of Fallot (TOF)	https://omim.org/entry/187500	Paediatric	GCN	Autosomal dominant	15	25
+TCF4	https://omim.org/entry/602272	Fuchs endothelial corneal dystrophy-3 (FECD3)	https://omim.org/entry/613267	Adult	CTG	Autosomal dominant	31	50
+TNRC6A	https://omim.org/entry/610739	Familial adult myoclonic epilepsy 6 (FAME6)	https://omim.org/entry/618074	Adult	TTTCA	Autosomal dominant	0	1100
+XYLT1	https://omim.org/entry/608124	Desbuquois dysplasia-2 (DBQD2)	https://omim.org/entry/615777	Paediatric	GGC	Autosomal recessive	9-20	110
+YEATS2	https://omim.org/entry/613373	Familial adult myoclonic epilepsy 4 (FAME4)	https://omim.org/entry/615127	Adult	TTTCA	Autosomal dominant	0	1000
+ZIC2	https://omim.org/entry/603073	Holoprosencephaly 5 (HPE5)	https://omim.org/entry/609637	Paediatric	GCN	Autosomal dominant	15	25
+ZIC3	https://omim.org/entry/300265	X-linked VACTERL syndrome (VACTERLX)	https://omim.org/entry/314390	Paediatric	GCC	X-linked recessive	10	12

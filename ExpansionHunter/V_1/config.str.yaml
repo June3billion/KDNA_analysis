@@ -1,0 +1,15 @@
+TOOL:
+  EXPANSIONHUNTER: "/NAS/data/etc/ExpansionHunter/build/install/bin/ExpansionHunter"
+  REVIEWER: "/NAS/data/etc/REViewer/build/install/bin/REViewer"
+  SAMTOOLS: "/NAS/data/etc/samtools-1.9/bin/samtools"
+FILE:
+  REFERENCE:
+    HG19: "/NAS/data/etc/reference/GRCh37_mainchr/genome.fa"
+    HG38: "/NAS/data/etc/reference/hg38_mainchr/Homo_sapiens_assembly38.main_chr.fasta"
+  CATALOG:
+    HG19: "/NAS/data/etc/ExpansionHunter/variant_catalog/hg19/variant_catalog_updated_hg19.json"
+    HG38: "/NAS/data/etc/ExpansionHunter/variant_catalog/hg38/variant_catalog_updated_hg38.json"
+  ANNOTATION: "/NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/str_db.txt"
+OPTION:
+  THREAD: 10
+  LOCI: "AFF2,AR,ARX_1,ARX_2,ATN1,ATXN1,ATXN10,ATXN2,ATXN3,ATXN7,ATXN8OS,BEAN1,C9ORF72,CACNA1A,CBL,CNBP,COMP,DAB1,DIP2B,DMD,DMPK,FMR1,FOXL2,FXN,GIPC1,GLS,HOXA13_1,HOXA13_2,HOXA13_3,HOXD13,HTT,JPH3,LRP12,MARCHF6,NIPA1,NOP56,NOTCH2NLC,NUTM2B-AS1,PABPN1,PHOX2B,PPP2R2B,PRDM12,RAPGEF2,RFC1:AAGGG,RFC1:ACAGG,RUNX2,SAMD12,SOX3,STARD7,TBP,TBX1,TCF4,TNRC6A,XYLT1,YEATS2,ZIC2,ZIC3"

@@ -1,0 +1,8 @@
+RegionName: ap-northeast-2
+AwsAccessKeyId: AKIAVMWON5QKV34AQZM5
+AwsSecretAccessKey: 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
+GebraExomeTable: Tucuxi-Analysis
+TucuxiAnalysisTable: Tucuxi-Analysis
+Version: STR_v0.0.1
+Tool: EH
+gene_disease_file: /data/DB/processedData/disease/result/disease.txt.gz

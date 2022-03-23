@@ -1,0 +1,6 @@
+
+#Get STR
+python analyze_STR.py --config /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/config.str.yaml  --id GTX21-HLNW --sex female --bamfile /GDS/data/personal/june/Analysis/KDNA/Resource/GebraID/GTX21-HLNW.hg38.recal.bam  --genome_build hg38 --outdir_vcf /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/Test/GTX21-HLNW --outdir_reviewer /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/Test/GTX21-HLNW
+
+#Upload tucuxi
+python /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/tucuxi_uploader_modified.py --sample GTX21-HLNW --result /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/Test/GTX21-HLNW/GTX21-HLNW.expansion.annotated.json --config /NAS/data/personal/june_dev/Pipelines/SV_ExpansionHunter/V_1/config.tucuxi.yaml
